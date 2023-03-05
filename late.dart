@@ -9,4 +9,4 @@ String getValue() {
   return 'ringin restu pati';
 }
 
-//jika late nya dihapus maka yang akan muncul gertvalue - display - ringin r.p
+//jika late nya dihapus maka yang akan muncul getevalue - display - ringin r.p
