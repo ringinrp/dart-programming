@@ -5,3 +5,5 @@ void main() {
 
   print(dataDouble);
 }
+
+//tanda ? penganti null check
