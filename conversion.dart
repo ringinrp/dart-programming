@@ -19,3 +19,5 @@ void main() {
   print(intToString);
   print(doubleToStiring);
 }
+
+// boolean tidak bisa diubah ke string
