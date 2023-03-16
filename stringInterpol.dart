@@ -5,6 +5,6 @@ void main() {
   print(firstName);
   print(lastName);
 
-  var fullName = '$firstName $lastName';
+  var fullName = '$firstName $lastName'; //bisa juga ${lastName}
   print(fullName);
 }
