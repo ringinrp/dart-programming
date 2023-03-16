@@ -1,5 +1,5 @@
 void main() {
-  int? dataInt;
+  int? dataInt = 10;
 
   double? dataDouble = dataInt?.toDouble();
 
